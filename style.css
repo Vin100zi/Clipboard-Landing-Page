@@ -36,6 +36,12 @@ header {
     color: hsl(0, 0%, 100%);
     padding: 10px 20px;
     border-radius: 25px;
+    cursor: pointer;
+    transition: 225ms;
+}
+
+#ios:hover {
+    font-size: 15px;
 }
 
 #mac {
@@ -44,4 +50,10 @@ header {
     color: hsl(0, 0%, 100%);
     padding: 10px 20px;
     border-radius: 25px;
+    cursor: pointer;
+    transition: 225ms;
+}
+
+#mac:hover {
+    font-size: 15px;
 }
