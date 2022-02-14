@@ -57,3 +57,10 @@ header {
 #mac:hover {
     font-size: 15px;
 }
+
+.introduction {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
