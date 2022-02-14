@@ -42,6 +42,7 @@ header {
 
 #ios:hover {
     font-size: 15px;
+    background-color: hsl(171, 47%, 57%);
 }
 
 #mac {
@@ -56,6 +57,7 @@ header {
 
 #mac:hover {
     font-size: 15px;
+    background-color: hsl(233, 95%, 75%);
 }
 
 .introduction {
@@ -63,4 +65,15 @@ header {
     flex-direction: column;
     align-items: center;
     text-align: center;
+}
+
+.introduction h2 {
+    margin: 70px 0 0 0;
+    font-size: 30px;
+    color: hsl(210, 10%, 33%);
+}
+
+.introduction p {
+    margin: 15px 0 0;
+    color: hsl(201, 11%, 66%);
 }
