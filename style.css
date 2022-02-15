@@ -65,6 +65,7 @@ header {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    margin-bottom: 70px;
 }
 
 .introduction h2 {
@@ -75,5 +76,25 @@ header {
 
 .introduction p {
     margin: 15px 0 0;
+    color: hsl(201, 11%, 66%);
+}
+
+.first-block {
+    display: flex;
+    margin-left: -3%;
+}   
+
+.list {
+    margin-left: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.list h3 {
+    color: hsl(210, 10%, 33%);
+}
+
+.list p {
     color: hsl(201, 11%, 66%);
 }
