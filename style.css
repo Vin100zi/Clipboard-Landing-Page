@@ -76,12 +76,14 @@ header {
 
 .introduction p {
     margin: 15px 0 0;
+    font-size: 14px;
     color: hsl(201, 11%, 66%);
 }
 
 .first-block {
     display: flex;
     margin-left: -3%;
+    margin-bottom: 70px;
 }   
 
 .list {
@@ -99,4 +101,27 @@ header {
 .list p {
     color: hsl(201, 11%, 66%);
     font-size: 14px;
+}
+
+.second-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.second-text h4 {
+    font-size: 30px;
+    color: hsl(210, 10%, 33%);
+    margin-bottom: 0;
+}
+
+.second-text p {
+    font-size: 14px;
+    margin: 20px 0 70px 0;
+    color: hsl(201, 11%, 66%);
+}
+
+#image-device {
+    width: 60%;
 }
