@@ -93,8 +93,10 @@ header {
 
 .list h3 {
     color: hsl(210, 10%, 33%);
+    font-size: 20px;
 }
 
 .list p {
     color: hsl(201, 11%, 66%);
+    font-size: 14px;
 }
