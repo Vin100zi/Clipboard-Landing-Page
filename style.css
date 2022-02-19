@@ -125,3 +125,16 @@ header {
 #image-device {
     width: 60%;
 }
+
+.third-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.box {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
