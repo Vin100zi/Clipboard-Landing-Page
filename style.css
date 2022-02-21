@@ -161,3 +161,9 @@ header {
     font-size: 14px;
     color: hsl(201, 11%, 66%);
 }
+
+.companies {
+    margin: 70px 0 0;
+    display: flex;
+    justify-content: space-evenly;
+}
