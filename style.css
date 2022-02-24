@@ -2,6 +2,7 @@ html,body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Bai Jamjuree", sans-serif;
 }
 
 header {
@@ -192,6 +193,8 @@ footer {
     align-items: center;
     margin: 70px 0 0;
     background-color: rgb(230, 227, 227);
+    color: hsl(210, 10%, 33%);
+    font-size: 14px;
 }
 
 .third-option p {
